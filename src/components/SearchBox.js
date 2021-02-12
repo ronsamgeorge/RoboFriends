@@ -9,7 +9,7 @@ class SearchBox extends React.Component{
             <div>
                 <input type ="search" onChange= {searchChange} placeholder = "Search Name"/>
             </div>
-        );
+        ); 
     }
 }
 

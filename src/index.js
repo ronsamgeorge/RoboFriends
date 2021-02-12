@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import { robots } from './robots.js';
-import CardArray from './CardComponent';
-import App from './App';
+//import { robots } from './robots.js';
+//import CardArray from './CardComponent';
+import App from './containers/App';
 
 ReactDOM.render(
   <React.StrictMode>
